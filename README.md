@@ -19,12 +19,12 @@ Status: Locked in
 
 <br clear="both"/>
 
-<div align="center">
 
 ```zsh
 Sen@linux: ~/my_readme $ ./show-oss-contributions
 ```
-Below are my pull requests to various open source organizations.
+<div align="center">
+Below are some of my pull requests to various open source organizations.
 
 | # | Organization | Repository | PR | Status |
 |---|---|---|---|---|
