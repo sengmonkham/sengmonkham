@@ -21,8 +21,9 @@ Tools: Yabai, Hyperland, Skhd, tmux, nvim
 
 <div align="center">
 
-## Open Source Contributions
-
+```zsh
+Sen@linux: ~/show-oss-contributions
+```
 Below are my pull requests to various open source organizations.
 
 | # | Organization | Repository | PR | Status |
@@ -36,7 +37,9 @@ Below are my pull requests to various open source organizations.
 
 <br/>
 
-##  GitHub Stats
+```zsh
+Sen@linux: ~/show-github-stats
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sengmonkham&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
