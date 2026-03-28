@@ -43,8 +43,8 @@ Sen@linux: ~/my_readme $ ./show-github-stats
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sengmonkham&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengmonkham&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sengmonkham&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sengmonkham&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
