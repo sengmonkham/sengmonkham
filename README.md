@@ -1,7 +1,7 @@
 ```zsh
 Sen@linux: ~/my_readme $ neofetch
 ```
-<img src="assets/law.jpg" alt="<3" align="left" width="30%">
+<img src="assets/Oguri-cap.jpg" alt="<3" align="left" width="30%">
 
 ```csharp
 ---------------------------------------------------------------
